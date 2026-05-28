@@ -1,5 +1,9 @@
 # 🚀 GitSense AI
 
+## 📸 Project Preview
+
+![GitSense AI Home](home.png)
+
 ### AI-Powered GitHub Productivity Analyzer
 
 GitSense AI is a futuristic AI-driven developer analytics platform that analyzes GitHub profiles, repositories, coding activity, and programming language usage to generate intelligent productivity insights.
