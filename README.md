@@ -1,181 +1,125 @@
 # 🚀 GitSense AI
 
-## 📸 Project Preview
+AI-Powered GitHub Productivity Analyzer built using Streamlit, GitHub API, and AI-driven analytics.
 
 ![GitSense AI Home](home.png)
 
-### AI-Powered GitHub Productivity Analyzer
-
-GitSense AI is a futuristic AI-driven developer analytics platform that analyzes GitHub profiles, repositories, coding activity, and programming language usage to generate intelligent productivity insights.
-
-The platform transforms raw GitHub data into interactive visual analytics, AI-based developer scoring, and smart repository insights using Python, Streamlit, GitHub API, and Machine Learning concepts.
-
 ---
 
-# 🌐 Live Demo
-
-🔗 Live App:  
-https://gitsense-ai.streamlit.app/
-
-💻 GitHub Repository:  
-https://github.com/yuvrajjuv/GitSense-AI
-
----
-
-# 📌 Problem Statement
-
-Developers often struggle to showcase their real coding consistency, repository quality, and technical growth using traditional resumes and portfolios.
-
-Recruiters and teams also face difficulties evaluating GitHub productivity and technical activity manually.
-
-GitSense AI solves this problem by using AI-powered GitHub analytics to automatically evaluate developer profiles and generate intelligent insights.
-
----
-
-# 🔥 Core Features
+# 🌟 Features
 
 ✅ GitHub Profile Analysis  
-✅ AI Developer Scoring  
+✅ AI Developer Score  
 ✅ Repository Analytics  
-✅ Interactive Charts & Visualizations  
-✅ Most Used Language Detection  
-✅ AI-Powered Insights  
-✅ Real-Time GitHub Data Fetching  
-✅ Modern Streamlit Dashboard UI  
+✅ Contribution Heatmap  
+✅ Most Used Languages Detection  
+✅ Recruiter Mode Insights  
+✅ AI-Based Developer Summary  
+✅ PDF Report Download  
+✅ Interactive Visualizations  
+✅ Live GitHub Data Fetching  
 
 ---
 
-# 📊 Functionalities
+# 🧠 Problem Statement
 
-## 🔍 GitHub Profile Fetching
-The platform fetches:
+Recruiters and developers often struggle to quickly analyze GitHub profiles and understand coding productivity, contribution consistency, and technical strengths.
 
-- Profile Image
-- Followers Count
-- Public Repository Count
-- Bio & GitHub Information
-- Coding Activity Data
+GitSense AI solves this problem by transforming raw GitHub profile data into intelligent AI-powered developer analytics.
 
 ---
 
-## 📈 Repository Analysis
-Analyzes:
+# 💡 Solution
 
-- Top Repositories
-- Stars & Forks
-- Repository Activity
-- Programming Languages
-- Open Source Contribution Insights
+GitSense AI fetches real-time GitHub data and generates:
 
----
-
-## 🤖 AI Insights Engine
-Generates intelligent AI-based summaries using:
-
-- Repository Consistency
-- Contribution Patterns
-- Language Usage
-- Developer Productivity
-- GitHub Performance Metrics
+- Developer performance score
+- Repository analytics
+- Contribution activity
+- Technical skill analysis
+- AI-generated recruiter insights
+- Downloadable PDF reports
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Frontend
-- Streamlit
-
-## ⚙️ Backend
 - Python
-
-## 📊 Data Visualization
+- Streamlit
 - Plotly
 - Pandas
-
-## 🔗 API Integration
 - GitHub REST API
-
-## 🤖 AI / ML Concepts
-- Machine Learning Logic
-- AI-Based Productivity Analysis
+- FPDF
+- AI-based analytics
 
 ---
 
-# 🧠 Workflow
+# 📊 Functionalities
 
-1️⃣ User enters a GitHub username
+## 🔍 GitHub Profile Analyzer
+Analyze any public GitHub account instantly.
 
-2️⃣ GitHub API fetches profile & repository data
+## 📈 Repository Analytics
+Visualize repository stars, forks, and technologies.
 
-3️⃣ AI engine analyzes productivity patterns
+## 🔥 Contribution Heatmap
+Track yearly GitHub activity consistency.
 
-4️⃣ Dashboard generates visual analytics & developer insights
+## 🤖 AI Recruiter Insights
+Generate intelligent developer evaluation summaries.
 
----
-
-# 🚀 Future Enhancements
-
-- AI Resume Analyzer
-- Contribution Heatmaps
-- AI Career Recommendation System
-- Team Productivity Analytics
-- Azure OpenAI Integration
-- Developer Ranking System
+## 📄 PDF Report Export
+Download complete developer reports instantly.
 
 ---
 
-# ▶️ Installation & Setup
+# 🚀 Live Demo
 
-## Clone Repository
+🔗 https://gitsense-ai.streamlit.app/
+
+---
+
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+![Home](home.png)
+
+---
+
+# ⚡ Installation
 
 ```bash
-git clone https://github.com/yuvrajjuv/GitSense-AI.git
-```
+git clone https://github.com/yourusername/GitSense-AI.git
 
----
+cd GitSense-AI
 
-## Install Dependencies
-
-```bash
 pip install -r requirements.txt
-```
 
----
-
-## Run Application
-
-```bash
 streamlit run app.py
 ```
 
 ---
 
-# 📸 Project Preview
+# 👨‍💻 Future Scope
 
-## Features Included
-- AI Dashboard
-- Repository Analytics
-- Language Visualization
-- Developer Scoring
-- GitHub Insights
-
----
-
-# 🌍 Real World Applications
-
-👨‍💻 Developers  
-Analyze coding consistency and GitHub growth.
-
-🧑‍💼 Recruiters  
-Evaluate developer profiles using smart analytics.
-
-🎓 Students & Learners  
-Track learning progress and technical strengths.
+- GitHub Profile Comparison
+- AI Resume Analyzer
+- Developer Ranking System
+- Team Collaboration Insights
+- ML-based Developer Prediction
 
 ---
 
-# 👨‍💻 Developed By
+# 🏆 Hackathon Submission
 
-## Yuvraj Malviya
+Built for GitHub Copilot Dev Days Hackathon.
 
-🚀 GitSense AI — *Code Smart. Grow Faster.*
+---
+
+# 👨‍💻 Author
+
+Yuvraj Malviya
+
+GitHub:
+https://github.com/yuvrajjuv
